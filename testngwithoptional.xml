@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test1">
+    <classes>
+       <class name="practicetestng.TestNGRunner9"/>
+    </classes>
+  </test> 
+  <test name="Test2">
+  <parameter name="lastname" value="kohli"></parameter>
+    <classes>
+       <class name="parcticetestng.TestNGRunner9"/>
+    </classes>
+  </test>
+  <test name="Test3">
+     <parameter name="firstname" value="APJ"></parameter>
+     <classes>
+         <class name="practicetestng.TestNGRunner9"/>
+     </classes>
+  </test>
+</suite> 

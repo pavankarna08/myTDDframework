@@ -1,0 +1,15 @@
+chrome,testernew51,valid,123456@mail,valid
+chrome,,blank,N/A,N/A
+chrome,tester51,invalid,N/A,N/A
+chrome,testernew51,valid,,blank
+chrome,testernew51,valid,123456mail,invalid
+firefox,testernew51,valid,123456@mail,valid
+firefox,,blank,N/A,N/A
+firefox,tester51,invalid,N/A,N/A
+firefox,testernew51,valid,,blank
+firefox,testernew51,valid,123456mail,invalid
+edge,testernew51,valid,123456@mail,valid
+edge,,blank,N/A,N/A
+edge,tester51,invalid,N/A,N/A
+edge,testernew51,valid,,blank
+edge,testernew51,valid,123456mail,invalid
